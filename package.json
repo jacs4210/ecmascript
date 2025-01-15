@@ -1,0 +1,25 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Recurso de practicas relacionadas a diferentes versiones de ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacs4210/ecmascript.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "javascript",
+    "nodejs",
+    "standar"
+  ],
+  "author": "Jairo Cuartas <jairo.cuartas18@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacs4210/ecmascript/issues"
+  },
+  "homepage": "https://github.com/jacs4210/ecmascript#readme"
+}
