@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/jacs4210/ecmascript/issues"
   },
-  "homepage": "https://github.com/jacs4210/ecmascript#readme"
+  "homepage": "https://github.com/jacs4210/ecmascript#readme",
+  "type": "module"
 }
